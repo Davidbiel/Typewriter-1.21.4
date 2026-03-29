@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+/extensions/_DocsExtension/**/*.kt text eol=lf
+* text=auto
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
+*.mdx linguist-detectable=true
+*.mdx linguist-vendored=false
+*.mdx linguist-generated=false
+*.mdx linguist-documentation=false
